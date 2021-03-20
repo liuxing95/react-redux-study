@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-study",
+  "version": "1.0.0",
+  "description": "liuxing react-redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxing95/react-redux-study.git"
+  },
+  "author": "liuxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxing95/react-redux-study/issues"
+  },
+  "homepage": "https://github.com/liuxing95/react-redux-study#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "redux": "^4.0.5"
+  }
+}
